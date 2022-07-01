@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shawshank12
-- 👀 I’m interested in computational physics
-- 🌱 I’m currently working on a project in Galaxy Evolution
+- 👋 Hi, I’m Shashank Ramesh.
+- 👀 I’m interested in computational physics and astrophysics
+- 🌱 I’m currently working on Galaxy Evolution through N-body simulations
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
