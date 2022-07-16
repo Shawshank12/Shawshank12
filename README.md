@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shashank Ramesh.
 - 👀 I’m interested in computational physics and astrophysics
 - 🌱 I’m currently working on Galaxy Evolution through N-body simulations
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects using computational physics
 - 📫 Email me at shashankramesh38@hotmail.com!
 
 <!---
