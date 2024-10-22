@@ -1,9 +1,8 @@
 - Hi, I’m Shashank Ramesh.
-- I am pursuing a Master's degree in Physics from Indian Institute of Technology, Madras.
-- I’m interested in computational physics and astrophysics.
-- I’m currently working on Galaxy Evolution through N-body simulations.
-- I’m looking for projects at the intersection of astrophysics, cosmology and computational physics.
-- Email me at ph22c044@smail.iitm.ac.in!
+- I am pursuing a PhD in the Biomedical and Astronomical Signal Processing Laboratory at Heriot-Watt University, Edinburgh.
+- I’m interested in astrophysics, computational imaging and machine learning.
+- I’m currently working on hyper-spectral radio interferometric imaging of galaxies.
+- Email me at sr3012@hw.ac.uk!
 
 <!---
 Shawshank12/Shawshank12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
